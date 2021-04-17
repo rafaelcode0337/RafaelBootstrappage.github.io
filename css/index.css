@@ -45,8 +45,9 @@ main {
 }
 .footer__title {
   font-style: italic;
+font-family: serif;
 }
 footer{
 margin:0;
-padding: 2em;
+padding: 1em;
 }
