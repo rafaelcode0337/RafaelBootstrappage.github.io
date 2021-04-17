@@ -44,6 +44,10 @@ main {
   margin: 1.5em 0;
 }
 .footer__title {
-  padding-bottom: 1em;
+  padding-bottom: 3em;
   font-style: italic;
+}
+footer{
+margin:0;
+padding: 1em;
 }
